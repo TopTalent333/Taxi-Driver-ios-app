@@ -1,0 +1,768 @@
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "0fH-OE-BTV"; */
+"0fH-OE-BTV.text" = "$0.00";
+
+/* Class = "UILabel"; text = "OFF DUTY"; ObjectID = "0nC-Rt-VaU"; */
+"0nC-Rt-VaU.text" = "OFF DUTY";
+
+/* Class = "UILabel"; text = "Total Rides"; ObjectID = "11Y-wJ-lR9"; */
+"11Y-wJ-lR9.text" = "Total Rides";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "1Kd-dG-e8h"; */
+"1Kd-dG-e8h.text" = "*";
+
+/* Class = "UILabel"; text = "Coupon (START50)"; ObjectID = "1vr-Oo-Zax"; */
+"1vr-Oo-Zax.text" = "Coupon (START50)";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "1wq-lj-8hW"; */
+"1wq-lj-8hW.text" = "0.0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Em-Uc-XgN"; */
+"2Em-Uc-XgN.text" = "Label";
+
+/* Class = "UILabel"; text = "Select Emergency Contact"; ObjectID = "2fB-Vx-R3m"; */
+"2fB-Vx-R3m.text" = "Select Emergency Contact";
+
+/* Class = "UITextField"; placeholder = "Create Password"; ObjectID = "2xs-AQ-h3a"; */
+"2xs-AQ-h3a.placeholder" = "Create Password";
+
+/* Class = "UILabel"; text = "NAME"; ObjectID = "327-Nv-cXq"; */
+"327-Nv-cXq.text" = "NAME";
+
+/* Class = "UILabel"; text = "OK"; ObjectID = "34c-Ap-gFc"; */
+"34c-Ap-gFc.text" = "OK";
+
+/* Class = "UILabel"; text = "Acceptance Rate"; ObjectID = "3TJ-Fc-qob"; */
+"3TJ-Fc-qob.text" = "Acceptance Rate";
+
+/* Class = "UITextField"; placeholder = "Driver Name"; ObjectID = "3dU-FY-Iia"; */
+"3dU-FY-Iia.placeholder" = "Driver Name";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "3gU-YR-N2T"; */
+"3gU-YR-N2T.text" = "5";
+
+/* Class = "UILabel"; text = "Net Earned"; ObjectID = "3ox-6Q-CLm"; */
+"3ox-6Q-CLm.text" = "Net Earned";
+
+/* Class = "UILabel"; text = "Ride Details"; ObjectID = "4MC-yL-KGv"; */
+"4MC-yL-KGv.text" = "Ride Details";
+
+/* Class = "UILabel"; text = "Coupon Applied()"; ObjectID = "4N1-Cc-PGy"; */
+"4N1-Cc-PGy.text" = "Coupon Applied()";
+
+/* Class = "UILabel"; text = "CarNo - 5678"; ObjectID = "4No-fK-o0G"; */
+"4No-fK-o0G.text" = "CarNo - 5678";
+
+/* Class = "UILabel"; text = "Net Fare :"; ObjectID = "4aR-Un-rHP"; */
+"4aR-Un-rHP.text" = "Net Fare :";
+
+/* Class = "UILabel"; text = "Total Distance travel"; ObjectID = "4mO-T7-QkJ"; */
+"4mO-T7-QkJ.text" = "Total Distance travel";
+
+/* Class = "UITextField"; placeholder = "Enter Car Number"; ObjectID = "5Bd-OX-Eyb"; */
+"5Bd-OX-Eyb.placeholder" = "Enter Car Number";
+
+/* Class = "UILabel"; text = "Commision Deducted"; ObjectID = "6lK-v5-CK8"; */
+"6lK-v5-CK8.text" = "Commision Deducted";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "77c-Tr-Lj7"; */
+"77c-Tr-Lj7.text" = "LOGIN";
+
+/* Class = "UILabel"; text = "ACCEPT RIDE"; ObjectID = "7Fv-HX-GCK"; */
+"7Fv-HX-GCK.text" = "ACCEPT RIDE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Sn-AB-cji"; */
+"7Sn-AB-cji.text" = "Label";
+
+/* Class = "UILabel"; text = "Total Payout"; ObjectID = "7kp-CG-j9p"; */
+"7kp-CG-j9p.text" = "Total Payout";
+
+/* Class = "UILabel"; text = "Trip Earnings"; ObjectID = "8KV-K6-7eD"; */
+"8KV-K6-7eD.text" = "Trip Earnings";
+
+/* Class = "UILabel"; text = "Extra Estimated Time ()"; ObjectID = "8Qc-5G-pTL"; */
+"8Qc-5G-pTL.text" = "Extra Estimated Time ()";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Rl-kd-rKo"; */
+"8Rl-kd-rKo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "96P-WM-Pfm"; */
+"96P-WM-Pfm.normalTitle" = "REGISTER";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "9C5-gv-QHZ"; */
+"9C5-gv-QHZ.text" = "*";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "9gS-3e-eRR"; */
+"9gS-3e-eRR.text" = "0.0";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "9v4-PV-gBu"; */
+"9v4-PV-gBu.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ADe-vW-2w2"; */
+"ADe-vW-2w2.text" = "Label";
+
+/* Class = "UILabel"; text = "DailyEarning"; ObjectID = "APX-Uv-Cza"; */
+"APX-Uv-Cza.text" = "DailyEarning";
+
+/* Class = "UILabel"; text = "Select Reason"; ObjectID = "AQH-W2-phV"; */
+"AQH-W2-phV.text" = "Select Reason";
+
+/* Class = "UILabel"; text = "Total Time :"; ObjectID = "AgL-3V-TTi"; */
+"AgL-3V-TTi.text" = "Total Time :";
+
+/* Class = "UILabel"; text = "Total Distance :"; ObjectID = "Ahs-1I-f0k"; */
+"Ahs-1I-f0k.text" = "Total Distance :";
+
+/* Class = "UILabel"; text = "Terms And Conditions"; ObjectID = "B3W-j9-QSA"; */
+"B3W-j9-QSA.text" = "Terms And Conditions";
+
+/* Class = "UILabel"; text = "Please Upload Required Document in order To complete the Process. You will be able to use our service only when admin will verify the documents."; ObjectID = "B52-5I-kdt"; */
+"B52-5I-kdt.text" = "Please Upload Required Document in order To complete the Process. You will be able to use our service only when admin will verify the documents.";
+
+/* Class = "UILabel"; text = "RC"; ObjectID = "B6I-Hv-otY"; */
+"B6I-Hv-otY.text" = "RC";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "BIw-xy-RfY"; */
+"BIw-xy-RfY.normalTitle" = "SUBMIT";
+
+/* Class = "UIButton"; normalTitle = "END TRIP"; ObjectID = "BTp-Be-miB"; */
+"BTp-Be-miB.normalTitle" = "END TRIP";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "Bst-OT-l5f"; */
+"Bst-OT-l5f.text" = "Payment";
+
+/* Class = "UILabel"; text = "+ 91"; ObjectID = "C7W-ED-th2"; */
+"C7W-ED-th2.text" = "+ 91";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "CLQ-ic-Nlw"; */
+"CLQ-ic-Nlw.text" = "$0.00";
+
+/* Class = "UILabel"; text = "CarName - inoova"; ObjectID = "CMk-2G-fxz"; */
+"CMk-2G-fxz.text" = "CarName - inoova";
+
+/* Class = "UILabel"; text = "Please let us know about your query,our support team will get back to you"; ObjectID = "CO9-KA-OIz"; */
+"CO9-KA-OIz.text" = "Please let us know about your query,our support team will get back to you";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "CTU-Yr-ySd"; */
+"CTU-Yr-ySd.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Total Earning"; ObjectID = "DMm-9t-yo8"; */
+"DMm-9t-yo8.text" = "Total Earning";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "DbE-uH-l0S"; */
+"DbE-uH-l0S.normalTitle" = "DONE";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Dex-25-XMf"; */
+"Dex-25-XMf.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Camera"; ObjectID = "Do6-jG-4H0"; */
+"Do6-jG-4H0.normalTitle" = "Camera";
+
+/* Class = "UILabel"; text = "Please Confirm This Receipt with customer."; ObjectID = "E2C-Yj-WmF"; */
+"E2C-Yj-WmF.text" = "Please Confirm This Receipt with customer.";
+
+/* Class = "UILabel"; text = "Overall Rating"; ObjectID = "E9k-Ip-LPS"; */
+"E9k-Ip-LPS.text" = "Overall Rating";
+
+/* Class = "UILabel"; text = "Comment(if any)"; ObjectID = "ECM-jD-leg"; */
+"ECM-jD-leg.text" = "Comment(if any)";
+
+/* Class = "UILabel"; text = "ON DUTY"; ObjectID = "ECf-BU-8vv"; */
+"ECf-BU-8vv.text" = "ON DUTY";
+
+/* Class = "UILabel"; text = "Waiting Charge"; ObjectID = "EQ7-2w-zys"; */
+"EQ7-2w-zys.text" = "Waiting Charge";
+
+/* Class = "UILabel"; text = "Total Bill"; ObjectID = "Egp-u2-ZeP"; */
+"Egp-u2-ZeP.text" = "Total Bill";
+
+/* Class = "UILabel"; text = "Total billed to customer"; ObjectID = "EjN-AQ-Qbv"; */
+"EjN-AQ-Qbv.text" = "Total billed to customer";
+
+/* Class = "UILabel"; text = "MOBILE NUMBER"; ObjectID = "FEN-JB-5Pf"; */
+"FEN-JB-5Pf.text" = "MOBILE NUMBER";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "FlX-yi-TnP"; */
+"FlX-yi-TnP.normalTitle" = "CANCEL";
+
+/* Class = "UITextField"; placeholder = "Enter Mobile"; ObjectID = "FvV-4P-LWu"; */
+"FvV-4P-LWu.placeholder" = "Enter Mobile";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GA8-Eq-ri5"; */
+"GA8-Eq-ri5.text" = "Label";
+
+/* Class = "UILabel"; text = "Total Earning"; ObjectID = "GgD-Ck-vfc"; */
+"GgD-Ck-vfc.text" = "Total Earning";
+
+/* Class = "UILabel"; text = "Insurance"; ObjectID = "GjY-Q7-0Or"; */
+"GjY-Q7-0Or.text" = "Insurance";
+
+/* Class = "UILabel"; text = "Total Payable Amount"; ObjectID = "Gpb-C7-3P0"; */
+"Gpb-C7-3P0.text" = "Total Payable Amount";
+
+/* Class = "UILabel"; text = "Package(10 km for 330 hrs)"; ObjectID = "H7V-5k-NZC"; */
+"H7V-5k-NZC.text" = "Package(10 km for 330 hrs)";
+
+/* Class = "UILabel"; text = "Distance Fare"; ObjectID = "HW0-LK-ds6"; */
+"HW0-LK-ds6.text" = "Distance Fare";
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "HW6-Fr-Blk"; */
+"HW6-Fr-Blk.placeholder" = "Old Password";
+
+/* Class = "UILabel"; text = "Call Your Emergency Contact"; ObjectID = "Hnu-NR-7GS"; */
+"Hnu-NR-7GS.text" = "Call Your Emergency Contact";
+
+/* Class = "UILabel"; text = "22"; ObjectID = "HuE-VB-tz2"; */
+"HuE-VB-tz2.text" = "22";
+
+/* Class = "UILabel"; text = "Offline"; ObjectID = "I7O-oJ-B2o"; */
+"I7O-oJ-B2o.text" = "Offline";
+
+/* Class = "UITextView"; text = "Some information about status will be fetched according to status and image as well"; ObjectID = "IWu-Oo-wOa"; */
+"IWu-Oo-wOa.text" = "Some information about status will be fetched according to status and image as well";
+
+/* Class = "UILabel"; text = "Upload a good quality of your document in order to submit your application"; ObjectID = "Iat-m3-9QX"; */
+"Iat-m3-9QX.text" = "Upload a good quality of your document in order to submit your application";
+
+/* Class = "UILabel"; text = "Trip Earnings"; ObjectID = "IcE-gm-Sto"; */
+"IcE-gm-Sto.text" = "Trip Earnings";
+
+/* Class = "UILabel"; text = "Online"; ObjectID = "IcT-G9-kjr"; */
+"IcT-G9-kjr.text" = "Online";
+
+/* Class = "UIButton"; normalTitle = "Don't Cancel"; ObjectID = "IeU-gf-mk7"; */
+"IeU-gf-mk7.normalTitle" = "Don't Cancel";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "JAv-FH-SHp"; */
+"JAv-FH-SHp.normalTitle" = "DONE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JIc-dH-m3z"; */
+"JIc-dH-m3z.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "JUB-2T-Ef9"; */
+"JUB-2T-Ef9.normalTitle" = "Create Account";
+
+/* Class = "UILabel"; text = "Night Time Charges :"; ObjectID = "JX5-LX-02E"; */
+"JX5-LX-02E.text" = "Night Time Charges :";
+
+/* Class = "UIButton"; normalTitle = "LOCATED"; ObjectID = "Je7-1O-sPd"; */
+"Je7-1O-sPd.normalTitle" = "LOCATED";
+
+/* Class = "UILabel"; text = "Trip Detail"; ObjectID = "KFv-Go-Ur1"; */
+"KFv-Go-Ur1.text" = "Trip Detail";
+
+/* Class = "UILabel"; text = "Peak Time Charges "; ObjectID = "KkO-Vj-IWr"; */
+"KkO-Vj-IWr.text" = "Peak Time Charges ";
+
+/* Class = "UIButton"; normalTitle = "Pass"; ObjectID = "Krn-yk-7L3"; */
+"Krn-yk-7L3.normalTitle" = "Pass";
+
+/* Class = "UILabel"; text = "Online Time"; ObjectID = "L7u-F4-AOP"; */
+"L7u-F4-AOP.text" = "Online Time";
+
+/* Class = "UILabel"; text = "particular date"; ObjectID = "L85-9r-Wxa"; */
+"L85-9r-Wxa.text" = "particular date";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "LCg-8a-Rsc"; */
+"LCg-8a-Rsc.placeholder" = "Enter Email";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "LRS-dd-qYC"; */
+"LRS-dd-qYC.text" = "Date";
+
+/* Class = "UILabel"; text = "Package Price"; ObjectID = "Lae-bK-Ue0"; */
+"Lae-bK-Ue0.text" = "Package Price";
+
+/* Class = "UILabel"; text = "Your Earning"; ObjectID = "Lbb-4T-glO"; */
+"Lbb-4T-glO.text" = "Your Earning";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "MS1-Ub-caQ"; */
+"MS1-Ub-caQ.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Ride Time Charges :"; ObjectID = "MW6-zP-X63"; */
+"MW6-zP-X63.text" = "Ride Time Charges :";
+
+/* Class = "UILabel"; text = "DAILY EARNINGS"; ObjectID = "MoV-Vq-EuX"; */
+"MoV-Vq-EuX.text" = "DAILY EARNINGS";
+
+/* Class = "UILabel"; text = "$5.00"; ObjectID = "MxG-CA-ASh"; */
+"MxG-CA-ASh.text" = "$5.00";
+
+/* Class = "UILabel"; text = "CREATE YOUR ACCOUNT"; ObjectID = "N2p-WV-ftE"; */
+"N2p-WV-ftE.text" = "CREATE YOUR ACCOUNT";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "Nby-uL-YMu"; */
+"Nby-uL-YMu.normalTitle" = "DONE";
+
+/* Class = "UILabel"; text = "VIEW OLD SUMMARY"; ObjectID = "Nwn-mV-1B8"; */
+"Nwn-mV-1B8.text" = "VIEW OLD SUMMARY";
+
+/* Class = "UILabel"; text = "Please Upload a photo of your meter of your car or motorcycle"; ObjectID = "O2d-tx-aHu"; */
+"O2d-tx-aHu.text" = "Please Upload a photo of your meter of your car or motorcycle";
+
+/* Class = "UILabel"; text = "55"; ObjectID = "OCC-jb-J8c"; */
+"OCC-jb-J8c.text" = "55";
+
+/* Class = "UILabel"; text = "Distance Travel :"; ObjectID = "OL4-ri-Jt6"; */
+"OL4-ri-Jt6.text" = "Distance Travel :";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "ORR-ft-nYl"; */
+"ORR-ft-nYl.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Total Payable Amount"; ObjectID = "Obb-Tr-bvK"; */
+"Obb-Tr-bvK.text" = "Total Payable Amount";
+
+/* Class = "UILabel"; text = "SEND"; ObjectID = "Oq0-A9-2Po"; */
+"Oq0-A9-2Po.text" = "SEND";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "OqR-42-0Iu"; */
+"OqR-42-0Iu.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "Q7q-eC-1Nt"; */
+"Q7q-eC-1Nt.normalTitle" = "Ok";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "QFL-9Y-6Ls"; */
+"QFL-9Y-6Ls.placeholder" = "Enter Email";
+
+/* Class = "UILabel"; text = "Waiting Charge :"; ObjectID = "QPf-oy-xbd"; */
+"QPf-oy-xbd.text" = "Waiting Charge :";
+
+/* Class = "UILabel"; text = "Initial meter Reading"; ObjectID = "QQ6-lx-dOm"; */
+"QQ6-lx-dOm.text" = "Initial meter Reading";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "QUy-m6-735"; */
+"QUy-m6-735.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "Ride Time Charges"; ObjectID = "Ra5-kg-PIh"; */
+"Ra5-kg-PIh.text" = "Ride Time Charges";
+
+/* Class = "UILabel"; text = "RIDE FARE"; ObjectID = "RkD-q4-PHn"; */
+"RkD-q4-PHn.text" = "RIDE FARE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rxl-6b-aSb"; */
+"Rxl-6b-aSb.text" = "Label";
+
+/* Class = "UILabel"; text = "your Query"; ObjectID = "SBr-RK-mac"; */
+"SBr-RK-mac.text" = "your Query";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SR0-2P-WO1"; */
+"SR0-2P-WO1.text" = "Label";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "T1x-vb-Ul7"; */
+"T1x-vb-Ul7.text" = "Date";
+
+/* Class = "UILabel"; text = "UncleTaxi Driver"; ObjectID = "TVX-AT-t8V"; */
+"TVX-AT-t8V.text" = "UncleTaxi Driver";
+
+/* Class = "UILabel"; text = "Fare :"; ObjectID = "Taf-WH-K0B"; */
+"Taf-WH-K0B.text" = "Fare :";
+
+/* Class = "UILabel"; text = "Bill Details "; ObjectID = "ToV-Bn-BYq"; */
+"ToV-Bn-BYq.text" = "Bill Details ";
+
+/* Class = "UILabel"; text = "Total Price"; ObjectID = "Ty7-Yb-q2U"; */
+"Ty7-Yb-q2U.text" = "Total Price";
+
+/* Class = "UILabel"; text = "Completed Trips"; ObjectID = "ULZ-kf-qS9"; */
+"ULZ-kf-qS9.text" = "Completed Trips";
+
+/* Class = "UILabel"; text = "Completed Trips"; ObjectID = "UV3-Uh-nOu"; */
+"UV3-Uh-nOu.text" = "Completed Trips";
+
+/* Class = "UILabel"; text = "Total OutStanding"; ObjectID = "UVC-hG-Uig"; */
+"UVC-hG-Uig.text" = "Total OutStanding";
+
+/* Class = "UILabel"; text = "Commision Deducted"; ObjectID = "UtU-Eg-1on"; */
+"UtU-Eg-1on.text" = "Commision Deducted";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "Va7-R8-Wee"; */
+"Va7-R8-Wee.text" = "Phone";
+
+/* Class = "UITextField"; placeholder = "Enter Mobile"; ObjectID = "Vr4-Ck-vSo"; */
+"Vr4-Ck-vSo.placeholder" = "Enter Mobile";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "WSJ-eu-KjB"; */
+"WSJ-eu-KjB.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Enter Name"; ObjectID = "X0I-7L-qn9"; */
+"X0I-7L-qn9.placeholder" = "Enter Name";
+
+/* Class = "UILabel"; text = "Night Time Charges "; ObjectID = "X2Y-Es-WIv"; */
+"X2Y-Es-WIv.text" = "Night Time Charges ";
+
+/* Class = "UILabel"; text = "RATING"; ObjectID = "Xe6-G7-oNs"; */
+"Xe6-G7-oNs.text" = "RATING";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "Y8s-0c-oBt"; */
+"Y8s-0c-oBt.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "YNX-qS-MsB"; */
+"YNX-qS-MsB.text" = "Change Password";
+
+/* Class = "UILabel"; text = "Getting location ....."; ObjectID = "YVz-3w-y8S"; */
+"YVz-3w-y8S.text" = "Getting location .....";
+
+/* Class = "UILabel"; text = "Total Time :"; ObjectID = "YWU-EI-etM"; */
+"YWU-EI-etM.text" = "Total Time :";
+
+/* Class = "UILabel"; text = "$5.00"; ObjectID = "YeP-SY-1Vc"; */
+"YeP-SY-1Vc.text" = "$5.00";
+
+/* Class = "UILabel"; text = "DO YOU HAVE A QUERY"; ObjectID = "Z1C-o1-EWm"; */
+"Z1C-o1-EWm.text" = "DO YOU HAVE A QUERY";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Z6H-XU-007"; */
+"Z6H-XU-007.text" = "Email";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "a8z-oe-gMt"; */
+"a8z-oe-gMt.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "aIq-1d-cYS"; */
+"aIq-1d-cYS.text" = "Expiry Date";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "aXs-Bh-PzH"; */
+"aXs-Bh-PzH.placeholder" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "ayh-hM-WbG"; */
+"ayh-hM-WbG.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Skip entering details"; ObjectID = "b4k-wr-ReY"; */
+"b4k-wr-ReY.text" = "Skip entering details";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "br9-E5-ZXa"; */
+"br9-E5-ZXa.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bsv-1g-Dvw"; */
+"bsv-1g-Dvw.text" = "Label";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "c3n-5U-oQA"; */
+"c3n-5U-oQA.text" = "+91";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "cAD-Wn-nqu"; */
+"cAD-Wn-nqu.normalTitle" = "DONE";
+
+/* Class = "UILabel"; text = "Bill Details :"; ObjectID = "cCu-eq-8Ns"; */
+"cCu-eq-8Ns.text" = "Bill Details :";
+
+/* Class = "UIButton"; normalTitle = "END TRIP"; ObjectID = "cSX-rO-bdN"; */
+"cSX-rO-bdN.normalTitle" = "END TRIP";
+
+/* Class = "UILabel"; text = "$5.00"; ObjectID = "cdW-T6-NO8"; */
+"cdW-T6-NO8.text" = "$5.00";
+
+/* Class = "UILabel"; text = "$20"; ObjectID = "ckN-pa-lWu"; */
+"ckN-pa-lWu.text" = "$20";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d8a-FC-Oyx"; */
+"d8a-FC-Oyx.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter Name"; ObjectID = "doO-oE-FYS"; */
+"doO-oE-FYS.placeholder" = "Enter Name";
+
+/* Class = "UILabel"; text = "Total OutStanding"; ObjectID = "doP-Gf-9jx"; */
+"doP-Gf-9jx.text" = "Total OutStanding";
+
+/* Class = "UITextField"; placeholder = "Driver Phone/email"; ObjectID = "eY3-Av-Fem"; */
+"eY3-Av-Fem.placeholder" = "Driver Phone/email";
+
+/* Class = "UITextField"; placeholder = "Enter meter value"; ObjectID = "epU-XL-YwN"; */
+"epU-XL-YwN.placeholder" = "Enter meter value";
+
+/* Class = "UILabel"; text = "Your Trips"; ObjectID = "ezS-yy-ErZ"; */
+"ezS-yy-ErZ.text" = "Your Trips";
+
+/* Class = "UIButton"; normalTitle = "BEGIN TRIP"; ObjectID = "fKZ-ze-5RQ"; */
+"fKZ-ze-5RQ.normalTitle" = "BEGIN TRIP";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fZg-nO-CPf"; */
+"fZg-nO-CPf.text" = "Label";
+
+/* Class = "UILabel"; text = "Login as demo driver"; ObjectID = "fan-Hm-2p3"; */
+"fan-Hm-2p3.text" = "Login as demo driver";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fbX-WN-Gmb"; */
+"fbX-WN-Gmb.text" = "Label";
+
+/* Class = "UILabel"; text = "DD MM YYYY"; ObjectID = "fmD-OU-uce"; */
+"fmD-OU-uce.text" = "DD MM YYYY";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fxK-G0-afw"; */
+"fxK-G0-afw.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "g5J-qH-2xI"; */
+"g5J-qH-2xI.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Your Name - abc"; ObjectID = "g8b-DY-GbV"; */
+"g8b-DY-GbV.text" = "Your Name - abc";
+
+/* Class = "UILabel"; text = "Total Price"; ObjectID = "gCZ-xu-bhz"; */
+"gCZ-xu-bhz.text" = "Total Price";
+
+/* Class = "UILabel"; text = "Pass"; ObjectID = "gMU-2f-Tf5"; */
+"gMU-2f-Tf5.text" = "Pass";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "gOu-UT-jv6"; */
+"gOu-UT-jv6.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "gR9-XZ-ZB2"; */
+"gR9-XZ-ZB2.text" = "*";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "gov-cD-CZc"; */
+"gov-cD-CZc.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Total billed to customer"; ObjectID = "gzE-qv-lfs"; */
+"gzE-qv-lfs.text" = "Total billed to customer";
+
+/* Class = "UIButton"; normalTitle = "VIEW FULL SUMMARY"; ObjectID = "h2k-Uu-GPJ"; */
+"h2k-Uu-GPJ.normalTitle" = "VIEW FULL SUMMARY";
+
+/* Class = "UIButton"; normalTitle = "Reached"; ObjectID = "hPL-jw-Cza"; */
+"hPL-jw-Cza.normalTitle" = "Reached";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "hQ3-cZ-Qfh"; */
+"hQ3-cZ-Qfh.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Promotions "; ObjectID = "hTC-tL-40G"; */
+"hTC-tL-40G.text" = "Promotions ";
+
+/* Class = "UITextField"; placeholder = "Enter Mobile"; ObjectID = "hbz-rY-A48"; */
+"hbz-rY-A48.placeholder" = "Enter Mobile";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "hhI-Nz-rA9"; */
+"hhI-Nz-rA9.placeholder" = "Enter Password";
+
+/* Class = "UILabel"; text = "Extra Time Travel (48 Kms)"; ObjectID = "hne-vm-cCb"; */
+"hne-vm-cCb.text" = "Extra Time Travel (48 Kms)";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "i3r-X5-iSw"; */
+"i3r-X5-iSw.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Pick up Address of customer will be gone here according to customer request"; ObjectID = "iU9-4v-Q9M"; */
+"iU9-4v-Q9M.text" = "Pick up Address of customer will be gone here according to customer request";
+
+/* Class = "UILabel"; text = "Trip Detail"; ObjectID = "iWI-cx-bGZ"; */
+"iWI-cx-bGZ.text" = "Trip Detail";
+
+/* Class = "UILabel"; text = "Final meter Reading"; ObjectID = "iZy-6M-oLX"; */
+"iZy-6M-oLX.text" = "Final meter Reading";
+
+/* Class = "UILabel"; text = "Peak Time Charges :"; ObjectID = "iaP-k9-URZ"; */
+"iaP-k9-URZ.text" = "Peak Time Charges :";
+
+/* Class = "UILabel"; text = "Weekly Statement"; ObjectID = "ihT-le-xno"; */
+"ihT-le-xno.text" = "Weekly Statement";
+
+/* Class = "UILabel"; text = "ABOUT US"; ObjectID = "j7j-6I-T1t"; */
+"j7j-6I-T1t.text" = "ABOUT US";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "jBn-FW-pjb"; */
+"jBn-FW-pjb.text" = "Time";
+
+/* Class = "UILabel"; text = "Package"; ObjectID = "jXZ-FE-HMc"; */
+"jXZ-FE-HMc.text" = "Package";
+
+/* Class = "UIButton"; normalTitle = "Gallery"; ObjectID = "jjg-tk-tnQ"; */
+"jjg-tk-tnQ.normalTitle" = "Gallery";
+
+/* Class = "UILabel"; text = "Rentals"; ObjectID = "jwr-hZ-SsO"; */
+"jwr-hZ-SsO.text" = "Rentals";
+
+/* Class = "UILabel"; text = "Pleae Enter these details to create a Demo Driver"; ObjectID = "k9J-tU-BLt"; */
+"k9J-tU-BLt.text" = "Pleae Enter these details to create a Demo Driver";
+
+/* Class = "UILabel"; text = "Trip Detail"; ObjectID = "kU2-cd-Ws5"; */
+"kU2-cd-Ws5.text" = "Trip Detail";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "kdf-ue-vgg"; */
+"kdf-ue-vgg.text" = "0.0";
+
+/* Class = "UILabel"; text = "Net Earned"; ObjectID = "kwD-c4-xtx"; */
+"kwD-c4-xtx.text" = "Net Earned";
+
+/* Class = "UIButton"; normalTitle = "BEGIN TRIP"; ObjectID = "kz3-Oa-b7d"; */
+"kz3-Oa-b7d.normalTitle" = "BEGIN TRIP";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "l4Y-83-j2V"; */
+"l4Y-83-j2V.normalTitle" = "DONE";
+
+/* Class = "UILabel"; text = "FORGOT PASSWORD"; ObjectID = "lAc-ws-KPd"; */
+"lAc-ws-KPd.text" = "FORGOT PASSWORD";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "lCF-Ch-UHO"; */
+"lCF-Ch-UHO.text" = "0.0";
+
+/* Class = "UILabel"; text = "Total Payout"; ObjectID = "lMC-LA-Te4"; */
+"lMC-LA-Te4.text" = "Total Payout";
+
+/* Class = "UITextView"; text = "For Registering with us you have to upload documents like:- Licence, Registeration of vehicle, Insurance"; ObjectID = "lTU-HX-x0f"; */
+"lTU-HX-x0f.text" = "For Registering with us you have to upload documents like:- Licence, Registeration of vehicle, Insurance";
+
+/* Class = "UILabel"; text = "Please Confirm This Receipt with customer."; ObjectID = "lso-9M-HMN"; */
+"lso-9M-HMN.text" = "Please Confirm This Receipt with customer.";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "mMi-vf-BZ4"; */
+"mMi-vf-BZ4.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "Total Payable Amount"; ObjectID = "mUc-L7-bbl"; */
+"mUc-L7-bbl.text" = "Total Payable Amount";
+
+/* Class = "UILabel"; text = "0.0 KM"; ObjectID = "mlf-GL-HHj"; */
+"mlf-GL-HHj.text" = "0.0 KM";
+
+/* Class = "UILabel"; text = "UncleTaxi Driver"; ObjectID = "n7V-Wf-hlv"; */
+"n7V-Wf-hlv.text" = "UncleTaxi Driver";
+
+/* Class = "UILabel"; text = "$0.0"; ObjectID = "nSV-Pl-tLT"; */
+"nSV-Pl-tLT.text" = "$0.0";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "nTU-M9-E2D"; */
+"nTU-M9-E2D.text" = "$0.00";
+
+/* Class = "UILabel"; text = "Your Account"; ObjectID = "ndH-QV-SG9"; */
+"ndH-QV-SG9.text" = "Your Account";
+
+/* Class = "UILabel"; text = "UPLOAD DOCUMENTS"; ObjectID = "nnx-fR-FEu"; */
+"nnx-fR-FEu.text" = "UPLOAD DOCUMENTS";
+
+/* Class = "UILabel"; text = "Your Earning"; ObjectID = "nr5-jM-EfS"; */
+"nr5-jM-EfS.text" = "Your Earning";
+
+/* Class = "UITextField"; placeholder = "Email/Phone"; ObjectID = "nwn-XT-Gzw"; */
+"nwn-XT-Gzw.placeholder" = "Email/Phone";
+
+/* Class = "UILabel"; text = "EMAIL ID"; ObjectID = "o46-Eg-Wf5"; */
+"o46-Eg-Wf5.text" = "EMAIL ID";
+
+/* Class = "UIButton"; normalTitle = "GO TO YOUR CURRENT RIDE"; ObjectID = "oFQ-76-PXj"; */
+"oFQ-76-PXj.normalTitle" = "GO TO YOUR CURRENT RIDE";
+
+/* Class = "UILabel"; text = "$5.00"; ObjectID = "oVw-IS-1IM"; */
+"oVw-IS-1IM.text" = "$5.00";
+
+/* Class = "UILabel"; text = "RATING"; ObjectID = "ofy-H0-J8i"; */
+"ofy-H0-J8i.text" = "RATING";
+
+/* Class = "UILabel"; text = "YOUR LOCATION"; ObjectID = "olJ-NY-GbI"; */
+"olJ-NY-GbI.text" = "YOUR LOCATION";
+
+/* Class = "UILabel"; text = "CLOSE"; ObjectID = "pvB-ol-Nx3"; */
+"pvB-ol-Nx3.text" = "CLOSE";
+
+/* Class = "UILabel"; text = "Total Earning"; ObjectID = "q85-fN-oN5"; */
+"q85-fN-oN5.text" = "Total Earning";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "qlW-yD-aGA"; */
+"qlW-yD-aGA.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "Select City"; ObjectID = "qlq-yJ-K6l"; */
+"qlq-yJ-K6l.text" = "Select City";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "r3a-1B-O6i"; */
+"r3a-1B-O6i.placeholder" = "Enter Email";
+
+/* Class = "UILabel"; text = "Document Status"; ObjectID = "r6r-cl-tOb"; */
+"r6r-cl-tOb.text" = "Document Status";
+
+/* Class = "UILabel"; text = "$0.0"; ObjectID = "rFW-ep-XV5"; */
+"rFW-ep-XV5.text" = "$0.0";
+
+/* Class = "UILabel"; text = "Current Status"; ObjectID = "rK9-mR-bwv"; */
+"rK9-mR-bwv.text" = "Current Status";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "rnj-pG-oQr"; */
+"rnj-pG-oQr.text" = "PASSWORD";
+
+/* Class = "UILabel"; text = "Enter Expiry date of your document"; ObjectID = "sCC-qg-CgS"; */
+"sCC-qg-CgS.text" = "Enter Expiry date of your document";
+
+/* Class = "UILabel"; text = "Demand Spot"; ObjectID = "sMz-Nj-mFq"; */
+"sMz-Nj-mFq.text" = "Demand Spot";
+
+/* Class = "UILabel"; text = "Rental Type"; ObjectID = "sZ9-Bq-F0r"; */
+"sZ9-Bq-F0r.text" = "Rental Type";
+
+/* Class = "UIButton"; normalTitle = "LOG OUT"; ObjectID = "skl-Eb-amC"; */
+"skl-Eb-amC.normalTitle" = "LOG OUT";
+
+/* Class = "UILabel"; text = "You are on duty. In order to turn off request from customer please turn off duty."; ObjectID = "sob-A6-EdN"; */
+"sob-A6-EdN.text" = "You are on duty. In order to turn off request from customer please turn off duty.";
+
+/* Class = "UILabel"; text = "Call Police Control Room"; ObjectID = "t4t-Yt-sdl"; */
+"t4t-Yt-sdl.text" = "Call Police Control Room";
+
+/* Class = "UILabel"; text = "VIEW FULL SUMMARY"; ObjectID = "t7p-bh-w45"; */
+"t7p-bh-w45.text" = "VIEW FULL SUMMARY";
+
+/* Class = "UILabel"; text = "Create Account"; ObjectID = "tKu-Zn-sQT"; */
+"tKu-Zn-sQT.text" = "Create Account";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "tlg-hD-Zja"; */
+"tlg-hD-Zja.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "twu-gR-a84"; */
+"twu-gR-a84.text" = "Promotions";
+
+/* Class = "UILabel"; text = "Currently you are off duty. Please turn on your duty in order to get new rides at  your location."; ObjectID = "uEY-kO-xTb"; */
+"uEY-kO-xTb.text" = "Currently you are off duty. Please turn on your duty in order to get new rides at  your location.";
+
+/* Class = "UILabel"; text = "NAVIGATE"; ObjectID = "uKh-qa-w4z"; */
+"uKh-qa-w4z.text" = "NAVIGATE";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "uhe-jw-FrM"; */
+"uhe-jw-FrM.text" = "Expiry Date";
+
+/* Class = "UILabel"; text = "Select Car Type"; ObjectID = "ujM-Zr-oGz"; */
+"ujM-Zr-oGz.text" = "Select Car Type";
+
+/* Class = "UILabel"; text = "GO ONLINE"; ObjectID = "vxT-hM-a4o"; */
+"vxT-hM-a4o.text" = "GO ONLINE";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "w1o-nl-N46"; */
+"w1o-nl-N46.text" = "$0.00";
+
+/* Class = "UILabel"; text = "Pick up Point"; ObjectID = "wYm-Z8-Jpb"; */
+"wYm-Z8-Jpb.text" = "Pick up Point";
+
+/* Class = "UILabel"; text = "Distance Travel :"; ObjectID = "wZg-c2-tnn"; */
+"wZg-c2-tnn.text" = "Distance Travel :";
+
+/* Class = "UILabel"; text = "Select Model"; ObjectID = "wuk-mA-8Ox"; */
+"wuk-mA-8Ox.text" = "Select Model";
+
+/* Class = "UILabel"; text = "Bill Details"; ObjectID = "xXM-kU-HAz"; */
+"xXM-kU-HAz.text" = "Bill Details";
+
+/* Class = "UILabel"; text = "Comment(if any)"; ObjectID = "xoL-Bd-AwM"; */
+"xoL-Bd-AwM.text" = "Comment(if any)";
+
+/* Class = "UILabel"; text = "weekly date"; ObjectID = "y5x-Wc-6VZ"; */
+"y5x-Wc-6VZ.text" = "weekly date";
+
+/* Class = "UILabel"; text = "Current Status"; ObjectID = "yBb-2W-0dp"; */
+"yBb-2W-0dp.text" = "Current Status";
+
+/* Class = "UILabel"; text = "GO OFFLINE"; ObjectID = "ySn-3O-oRY"; */
+"ySn-3O-oRY.text" = "GO OFFLINE";
+
+/* Class = "UILabel"; text = "Expiry Date"; ObjectID = "yim-u1-Fsx"; */
+"yim-u1-Fsx.text" = "Expiry Date";
+
+/* Class = "UILabel"; text = "$20"; ObjectID = "ym0-vo-Cai"; */
+"ym0-vo-Cai.text" = "$20";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "yqL-mU-HtT"; */
+"yqL-mU-HtT.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "RIDE FARE"; ObjectID = "yvr-gm-XRl"; */
+"yvr-gm-XRl.text" = "RIDE FARE";
+
+/* Class = "UILabel"; text = "Licence"; ObjectID = "z9i-4D-XPK"; */
+"z9i-4D-XPK.text" = "Licence";
+
+/* Class = "UILabel"; text = "UncleTaxi Driver"; ObjectID = "zOc-O2-hOr"; */
+"zOc-O2-hOr.text" = "UncleTaxi Driver";
+
+/* Class = "UILabel"; text = "Trip Detail"; ObjectID = "zpN-Ry-SPt"; */
+"zpN-Ry-SPt.text" = "Trip Detail";
+
+/* Class = "UILabel"; text = "USE IN CASE OF EMERGENCY"; ObjectID = "zpT-jc-YdU"; */
+"zpT-jc-YdU.text" = "USE IN CASE OF EMERGENCY";

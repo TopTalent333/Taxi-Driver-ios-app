@@ -1,0 +1,6 @@
+framework module Pods_Tag_Your_Ride___Driver {
+  umbrella header "Pods-Tag Your Ride - Driver-umbrella.h"
+
+  export *
+  module * { export * }
+}

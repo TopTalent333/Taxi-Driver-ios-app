@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>24661780164-3n2f5qm8ga44tlq10u9fhcvhsf73r8qi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.24661780164-3n2f5qm8ga44tlq10u9fhcvhsf73r8qi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD4wmsWUNIfxGQwV7rhpXXncF4rkFx73D0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>24661780164</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tagyourride.driver</string>
+	<key>PROJECT_ID</key>
+	<string>tagyourride-6bf4e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tagyourride-6bf4e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:24661780164:ios:fe7773fe1c1673b4</string>
+	<key>DATABASE_URL</key>
+	<string>https://tagyourride-6bf4e.firebaseio.com</string>
+</dict>
+</plist>
